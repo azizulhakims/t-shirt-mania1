@@ -1,0 +1,15 @@
+.navData{
+    padding: 20px;
+}
+
+.navData a{
+    text-decoration: none;
+    padding: 3px;
+    margin-left: 3px;
+
+}
+
+.navData a:hover{
+    background-color: aqua;
+}
+
